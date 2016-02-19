@@ -1,0 +1,5 @@
+/build
+/lib
+/bin
+*_generated.h
+*.DS_Store
