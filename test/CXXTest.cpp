@@ -1,4 +1,4 @@
-#include "config.h"
+//
 
 #include <cppunit/TextTestRunner.h>
 #include <cppunit/extensions/TestFactoryRegistry.h>

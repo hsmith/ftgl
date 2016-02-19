@@ -1,6 +1,6 @@
 /* Small C bindings test program */
 
-#include "config.h"
+//
 
 #if defined HAVE_GL_GLUT_H
 #   include <GL/glut.h>

@@ -23,7 +23,7 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#include "config.h"
+//
 
 #include <math.h> // sin(), cos()
 #include <stdlib.h> // exit()

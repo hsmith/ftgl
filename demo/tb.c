@@ -4,7 +4,7 @@
  *  Advanced OpenGL course notes.
  */
 
-#include "config.h"
+//
 
 #include <math.h>
 #include <assert.h>

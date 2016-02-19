@@ -50,7 +50,7 @@
  * Much mucking with by:
  * Gavin Bell
  */
-#include "config.h"
+//
 
 #include <math.h>
 #include "trackball.h"
